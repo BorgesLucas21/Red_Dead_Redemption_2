@@ -25,7 +25,7 @@ body {
 }
 
 .cabecalho-sobre_o_jogo{
-  background-image: linear-gradient();
+  background-image: linear-gradient(#921313, #aec916);
   color: blueviolet;
   display: flex;
   justify-content: center;
