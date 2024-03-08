@@ -13,7 +13,9 @@ body {
    align-items: center;
    padding: 24px 0;
 }
-
+.cabecalho-img{
+  width: 46%;
+}
 .cabecalho-sobre_o_jogo{
     display: inline-block;
     margin:0 16px;
