@@ -23,16 +23,3 @@ body {
     margin:0 16px;
     font-size: 16px;
 }
-
-.cabecalho-sobre_o_jogo{
-  background-image: linear-gradient(#921313, #aec916);
-  color: blueviolet;
-  display: flex;
-  justify-content: center;
-  padding: 24px 0;
-
-
-}
-.cabecalho-imagem{
-  width: 25%;
-}
