@@ -23,7 +23,8 @@ body {
     margin:0 16px;
     font-size: 16px;
 }
-.sobre_nos{
+
+.cabecalho-sobre_o_jogo{
   background-image: linear-gradient(#3B0050,#3b00501f);
   color:#FFFFFF;
   display: flex;
