@@ -28,7 +28,7 @@ body {
 }
 .sobre-o-jogo{
   background-image: linear-gradient(#ffffff,#ffffff1f);
-    color:#000000;
+    color:#ffffff;
     display: flex;
     justify-content: center;
     padding: 50px;
