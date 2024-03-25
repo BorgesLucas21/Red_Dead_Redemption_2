@@ -52,7 +52,7 @@ body {
   width: 25%;
 }
 
-.lojas-todosestados-div{
+.Membros-da-Gangue{
   display: grid;
   grid-template-columns: 33% 33% 33%;
 }
