@@ -37,11 +37,11 @@ body {
 /* secao sobre nos*/
 .sobre_nos{
   background-image: linear-gradient(#ffffff,#ffffff);
-  color:#FFFFFF;
+  color:#000000;
   display: flex;
   justify-content: center;
   padding: 50px;
-  border-bottom: 2px solid #ffff00b2;
+  border-bottom: 2px solid #000000;
 }
 
 .sobre_nos-div-conteudo{
